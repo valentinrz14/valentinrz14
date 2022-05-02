@@ -1,7 +1,7 @@
-Hi 👋 My name is Valentin Rodriguez 👨🏼‍💻
+Hi 👋 My name is Valentin Rodriguez
 ===================================
 
-Frontend Engineer - Mobile Developer
+Frontend Engineer - Mobile Developer 👨🏼‍💻
 ------------------------------------
 
 * 🌍  I'm based in Argentina
