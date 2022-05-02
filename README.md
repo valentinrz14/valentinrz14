@@ -1,4 +1,4 @@
-Hi 👋 My name is Valentin Rodriguez
+Hi 👋 My name is Valentin Rodriguez 👨🏼‍💻
 ===================================
 
 Frontend Engineer - Mobile Developer
